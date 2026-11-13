@@ -1,6 +1,6 @@
 # ScooterShare — аренда электросамокатов
 
-Учебный проект на C# / Windows Forms / .NET 8 / Entity Framework Core / SQLite.
+Проект на C# / Windows Forms / .NET 8 / Entity Framework Core / SQLite.
 
 ## Возможности
 - Регистрация и вход по email и паролю (пароль хранится в виде PBKDF2-хеша).
